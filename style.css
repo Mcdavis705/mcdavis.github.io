@@ -1,0 +1,33 @@
+ul li a {
+    text-decoration: none;
+    color: inherit;
+}
+}
+body{
+    background-color:#F5F5F5
+    ;
+    color:#333333;
+    font-family:"futura", sans-serif;
+    font-size:15px;
+    text-align:justify;
+    
+}
+h1{
+    color:rgb(11, 11, 125);
+    font-weight:600;
+}
+h2{
+   padding-top:40px;  
+}
+h3{
+    color:rgb(37, 25, 168);
+    font-size:1.5em;
+}
+h6{
+    color:rgb(37, 25, 168);
+    font-style:italic;
+    font-size:0.8em;
+}
+.foot{
+    text-align:center;
+}
